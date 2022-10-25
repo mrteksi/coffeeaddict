@@ -1,0 +1,42 @@
+body{
+    background-image: url('https://makdagist1.github.io/coffeeaddict/images/background.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family:sans-serif;
+}
+
+.description{
+    width: 50%;
+    font-weight: bold;
+}
+
+.coffee{
+    color:#ff0000;
+}
+
+.products{
+    margin-bottom: 80px;
+}
+
+table,tr,th,td{
+    border: 5px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    width: 50%;
+}
+
+td{
+    font-weight: bold;
+}
+
+button{
+    font-weight: bold;
+}
+
+button:hover{
+    color: #ffff;
+    cursor:pointer;
+}
